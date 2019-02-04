@@ -1,0 +1,21 @@
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\bin\Debug\T4H Technology SAS.exe.config
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\bin\Debug\T4H Technology SAS.exe
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\bin\Debug\T4H Technology SAS.pdb
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\bin\Debug\MySql.Data.dll
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\bin\Debug\Google.Protobuf.dll
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\bin\Debug\MySql.Data.xml
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\obj\Debug\T4H Technology SAS.csprojAssemblyReference.cache
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\obj\Debug\T4H_Technology_SAS.login.resources
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\obj\Debug\T4H_Technology_SAS.Properties.Resources.resources
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\obj\Debug\T4H Technology SAS.csproj.GenerateResource.cache
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\obj\Debug\T4H Technology SAS.csproj.CoreCompileInputs.cache
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\obj\Debug\T4H Technology SAS.csproj.CopyComplete
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\obj\Debug\T4H Technology SAS.exe
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\obj\Debug\T4H Technology SAS.pdb
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\obj\Debug\T4H Technology SAS.exe.config
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\obj\Debug\T4H_Technology_SAS.Modulos.Crear_Categoria.resources
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\obj\Debug\T4H_Technology_SAS.Modulos.Crear_Cliente.resources
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\obj\Debug\T4H_Technology_SAS.Modulos.Crear_Usuario.resources
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\obj\Debug\T4H_Technology_SAS.Modulos.Crear_Producto.resources
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\obj\Debug\T4H_Technology_SAS.Modulos.Crear_Pedidos.resources
+C:\Users\ChristianAlexis\source\repos\T4H Technology SAS\T4H Technology SAS\obj\Debug\T4H_Technology_SAS.Modulos.Manu.resources
